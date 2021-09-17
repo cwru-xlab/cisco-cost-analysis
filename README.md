@@ -4,5 +4,4 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/project-cirrus/cost-analysis/badge)](https://www.codefactor.io/repository/github/project-cirrus/cost-analysis)
 [![DeepSource](https://deepsource.io/gh/project-cirrus/cost-analysis.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/project-cirrus/cost-analysis/?ref=repository-badge)
 
-Calculators and analysis for determining the cost of cloud resources associated
-with running Project Cirrus.
+Calculators and analysis for determining the cost of running Cirrus
